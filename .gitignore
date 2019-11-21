@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+**/.idea
+**/__pycache__
+autoscale/autoscale/*.pyc
+**/hold
+**/venv
+**/.terraform
+**/terraform.tfstate
+**/terraform.tfstate.backup
+**/site-packages
+build/*
+test/*
+terraform
+fgtautoscale
+manage.py
